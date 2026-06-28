@@ -1,7 +1,7 @@
-# Saravanan S
-### Full Stack Developer — turning requirements into systems that don't break at 3am
+# SARAVANAN S
+### Software Developer | Full Stack | AI Applications
 
-*Code is the last thing I write. The right questions come first.*
+*Building software that is reliable, scalable, and designed for real-world use.*
 
 ---
 
@@ -56,17 +56,11 @@ Alongside full-stack development, I'm building AI-powered applications, working 
 
 ---
 
-## Engineering Principles
+## What I Build
 
-- **Write for the inheritor** — someone will read this code long after you've forgotten writing it
-- **APIs should feel obvious** — if it needs explaining, it needs redesigning
-- **Respect the database** — bad schema is technical debt with compounding interest
-- **Done beats perfect** — software nobody uses solves nothing
+Software that solves real problems.
 
----
-
-*"Strong engineering is invisible. People just say the product works."*
-
+From APIs and databases to web and mobile applications, I focus on building systems that are practical and production-ready.
 ---
 
 ## Connect
