@@ -56,27 +56,12 @@ Currently obsessing over AI-powered applications, clean architecture, and system
 
 ---
 
-## GitHub Stats
-
-![Saravanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Engineering Principles
 
 - **Readable over clever** — the next developer in this codebase might be you at 2am
 - **APIs as contracts** — if it needs a tutorial to consume, the design is wrong
 - **Schema design matters** — databases outlive the sprint they were born in
 - **Ship and iterate** — waiting for perfect means nobody uses it
-
----
-
-## Connect
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 ---
 
