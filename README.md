@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=059669&icon_color=059669&text_color=374151&bg_color=ffffff00" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=saran040902&show_icons=true&theme=default&hide_border=true&title_color=059669&icon_color=059669&text_color=374151&bg_color=ffffff00" />
 
 ### the work
 
