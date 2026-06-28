@@ -1,18 +1,45 @@
-# Saravanan S
+SARAVANAN S
 
-```text
-Role        : Full Stack Software Developer
-Experience  : 2+ Years
-Location    : India
+Full Stack Software Developer
 
-Frontend    : React | Next.js | HTML | CSS | Bootstrap
-Backend     : Python | Django | Flask | Express.js
-Database    : PostgreSQL | MySQL | MongoDB
-Languages   : Python | JavaScript | TypeScript | SQL
-Tools       : Git | GitHub | Tableau | Postman
+Building software that transforms business requirements into reliable, scalable, and user-focused solutions.
 
-Focus       : Building scalable enterprise applications
-Learning    : AWS | Docker | Kubernetes | System Design
-```
+────────────────────────────────────
 
-> "Clean architecture. Scalable solutions. Continuous learning."
+Engineering
+
+• Full Stack Development
+• Software Architecture
+• REST APIs
+• Database Design
+• AI Integration
+• Performance Optimization
+
+────────────────────────────────────
+
+Technology
+
+Python
+Django
+Flask
+React
+Next.js
+JavaScript
+TypeScript
+PostgreSQL
+MySQL
+MongoDB
+Flutter (Intermediate)
+
+────────────────────────────────────
+
+Engineering Principles
+
+Write for maintainability.
+Design for scalability.
+Optimize for performance.
+Build with purpose.
+
+────────────────────────────────────
+
+"Great software is built through thoughtful engineering, continuous learning, and attention to detail."
