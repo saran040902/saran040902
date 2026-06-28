@@ -7,11 +7,9 @@
 
 ## About
 
-Some developers ship features. I ship outcomes.
+I enjoy building software that balances functionality, performance, and maintainability. From database design and backend services to frontend experiences and deployment, I work across the entire application lifecycle with a focus on creating reliable, scalable solutions.
 
-I live across the entire stack — schema to screen, query to deployment — and I take each layer seriously. The database isn't just storage. The API isn't just a bridge. The interface isn't just pixels. Every layer is a decision that compounds over time.
-
-Right now I'm deep into AI integration, cloud-native patterns, and the quiet art of building software nobody has to think about — because it just works.
+Alongside full-stack development, I'm building AI-powered applications, working with cloud platforms, and designing software that solves real-world business problems.
 
 ---
 
