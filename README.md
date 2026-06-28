@@ -1,15 +1,17 @@
 # Saravanan S
-### Full Stack Developer — Python · React · Django · PostgreSQL
+### Full Stack Developer — turning requirements into systems that don't break at 3am
 
-*I translate business problems into software that actually works in production.*
+*Code is the last thing I write. The right questions come first.*
 
 ---
 
 ## About
 
-I work across the full software lifecycle — databases, APIs, interfaces, deployment. Before I write a line of code, I ask what problem it's solving and whether it needs to exist at all.
+Some developers ship features. I ship outcomes.
 
-Currently obsessing over AI-powered applications, clean architecture, and systems that are boring in the best way — reliable, predictable, maintainable.
+I live across the entire stack — schema to screen, query to deployment — and I take each layer seriously. The database isn't just storage. The API isn't just a bridge. The interface isn't just pixels. Every layer is a decision that compounds over time.
+
+Right now I'm deep into AI integration, cloud-native patterns, and the quiet art of building software nobody has to think about — because it just works.
 
 ---
 
@@ -58,10 +60,10 @@ Currently obsessing over AI-powered applications, clean architecture, and system
 
 ## Engineering Principles
 
-- **Readable over clever** — the next developer in this codebase might be you at 2am
-- **APIs as contracts** — if it needs a tutorial to consume, the design is wrong
-- **Schema design matters** — databases outlive the sprint they were born in
-- **Ship and iterate** — waiting for perfect means nobody uses it
+- **Write for the inheritor** — someone will read this code long after you've forgotten writing it
+- **APIs should feel obvious** — if it needs explaining, it needs redesigning
+- **Respect the database** — bad schema is technical debt with compounding interest
+- **Done beats perfect** — software nobody uses solves nothing
 
 ---
 
