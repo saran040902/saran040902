@@ -1,6 +1,4 @@
-# SARAVANAN S
-### Software Developer | Full Stack | AI Applications
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,100:14b8a6&height=200&section=header&text=SARAVANAN%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Applications&descAlignY=65&descSize=18)
 *Building software that is reliable, scalable, and designed for real-world use.*
 
 ---
@@ -60,7 +58,8 @@ Alongside full-stack development, I'm building AI-powered applications, working 
 
 Software that solves real problems.
 
-From APIs and databases to web and mobile applications, I focus on building systems that are practical and production-ready.
+From APIs and databasses to web and mobile applications,I focus on building systems that are practical and production-ready.
+
 ---
 
 ## Connect
