@@ -1,111 +1,83 @@
-<div align="center">
+# Saravanan S
+### Full Stack Developer — Python · React · Django · PostgreSQL
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6B6B,FFE66D,4ECDC4,45B7D1&height=200&section=header&text=Saravanan%20S&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+software+that+solves+real+problems+%F0%9F%9A%80;Python+%7C+React+%7C+Django+%7C+PostgreSQL;Business-first+%C2%B7+Clean+Architecture+%C2%B7+Reliable+Systems)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+*I translate business problems into software that actually works in production.*
 
 ---
 
-## 🧠 About Me
+## About
 
-> *I don't just write code — I translate business challenges into reliable, scalable software.*
+I work across the full software lifecycle — databases, APIs, interfaces, deployment. Before I write a line of code, I ask what problem it's solving and whether it needs to exist at all.
 
-I'm a full stack developer who works across the entire software lifecycle — from database design and API development to responsive UIs and production deployment. I ask **why** before **how**, and I build things meant to last.
-
-- 🔭 Currently exploring **AI-powered applications** and **cloud-native architecture**
-- 💡 Believer in clean code, simple APIs, and software that earns trust
-- 🎯 Goal: Build products that deliver **measurable business value**
+Currently obsessing over AI-powered applications, clean architecture, and systems that are boring in the best way — reliable, predictable, maintainable.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-<div align="center">
+**Languages**
 
-### 💬 Languages
-![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFE66D?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4ECDC4?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FFE66D?style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-4ECDC4?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-45B7D1?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Frontend**
 
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-FF6B6B?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FFE66D?style=for-the-badge&logo=flask&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-4ECDC4?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-45B7D1?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF6B6B?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-FFE66D?style=for-the-badge&logo=mysql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ECDC4?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend**
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-45B7D1?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FFE66D?style=for-the-badge&logo=postman&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-4ECDC4?style=for-the-badge&logo=tableau&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-45B7D1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Database**
 
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
----
+**Mobile**
 
-## 📊 GitHub Stats
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-<div align="center">
+**Tools**
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="160"/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 💼 What Defines My Work
+## GitHub Stats
 
-<div align="center">
+![Saravanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-| 🎯 Principle | 💬 What it means |
-|---|---|
-| **Readable > Clever** | Code is read 10× more than it's written |
-| **APIs as contracts** | Simple to consume, hard to misuse |
-| **Databases deserve respect** | Schema design that survives the roadmap |
-| **Interfaces earn trust** | Speed and clarity aren't features — they're the baseline |
-| **Ship, then improve** | Iteration beats waiting for perfect |
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 🌐 Let's Connect
+## Engineering Principles
 
-<div align="center">
+- **Readable over clever** — the next developer in this codebase might be you at 2am
+- **APIs as contracts** — if it needs a tutorial to consume, the design is wrong
+- **Schema design matters** — databases outlive the sprint they were born in
+- **Ship and iterate** — waiting for perfect means nobody uses it
 
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+---
 
-<br/>
+## Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B,FFE66D,4ECDC4,45B7D1&height=100&section=footer" width="100%"/>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
-</div>
+---
+
+*"Strong engineering is invisible. People just say the product works."*
