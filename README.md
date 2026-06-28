@@ -1,88 +1,111 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=500&lines=full+stack+developer;business-first+engineering;python+%C2%B7+react+%C2%B7+django+%C2%B7+postgresql">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=059669&center=true&vCenter=true&width=500&lines=full+stack+developer;business-first+engineering;python+%C2%B7+react+%C2%B7+django+%C2%B7+postgresql" alt="Typing SVG">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6B6B,FFE66D,4ECDC4,45B7D1&height=200&section=header&text=Saravanan%20S&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
 
-# Saravanan S
+</div>
 
-*Software that solves problems nobody wrote a ticket for.*
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+software+that+solves+real+problems+%F0%9F%9A%80;Python+%7C+React+%7C+Django+%7C+PostgreSQL;Business-first+%C2%B7+Clean+Architecture+%C2%B7+Reliable+Systems)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+---
+
+## 🧠 About Me
+
+> *I don't just write code — I translate business challenges into reliable, scalable software.*
+
+I'm a full stack developer who works across the entire software lifecycle — from database design and API development to responsive UIs and production deployment. I ask **why** before **how**, and I build things meant to last.
+
+- 🔭 Currently exploring **AI-powered applications** and **cloud-native architecture**
+- 💡 Believer in clean code, simple APIs, and software that earns trust
+- 🎯 Goal: Build products that deliver **measurable business value**
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+### 💬 Languages
+![Python](https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE66D?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4ECDC4?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-FF6B6B?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-222222?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFE66D?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-4ECDC4?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-45B7D1?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Django](https://img.shields.io/badge/Django-FF6B6B?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFE66D?style=for-the-badge&logo=flask&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-4ECDC4?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-45B7D1?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF6B6B?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFE66D?style=for-the-badge&logo=mysql&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ECDC4?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-45B7D1?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FFE66D?style=for-the-badge&logo=postman&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-4ECDC4?style=for-the-badge&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-45B7D1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=saran040902&show_icons=true&theme=default&hide_border=true&title_color=059669&icon_color=059669&text_color=374151&bg_color=ffffff00" />
-
-### the work
-
-I'm a full stack developer from India who takes business problems seriously — more seriously, sometimes, than the code itself.
-
-The architecture comes before the syntax. The question `why does this exist?` comes before `how do I build it?`
-
-My stack is wide. My patience for unnecessary complexity is not.
-
-<br clear="right"/>
-
----
-
-### languages & tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-14532d?style=flat-square&logo=python&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/JavaScript-14532d?style=flat-square&logo=javascript&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/SQL-14532d?style=flat-square&logo=postgresql&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/React-14532d?style=flat-square&logo=react&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/Next.js-14532d?style=flat-square&logo=next.js&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/Django-14532d?style=flat-square&logo=django&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/Flask-14532d?style=flat-square&logo=flask&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/Express.js-14532d?style=flat-square&logo=express&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/PostgreSQL-14532d?style=flat-square&logo=postgresql&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/MongoDB-14532d?style=flat-square&logo=mongodb&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/Flutter-14532d?style=flat-square&logo=flutter&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/Git-14532d?style=flat-square&logo=git&logoColor=6EE7B7" />
-  <img src="https://img.shields.io/badge/Tableau-14532d?style=flat-square&logo=tableau&logoColor=6EE7B7" />
-</p>
-
----
-
-### how i think about software
-
-```
-problem clarity  >  elegant code
-boring reliable  >  clever fragile  
-shipped and used >  perfect and waiting
-```
-
-I care about APIs that don't require a manual, databases designed to outlive the sprint, and interfaces that earn trust without demanding attention.
-
----
-
-### on the horizon
-
-```python
-{
-  "obsessing over" : "software architecture & AI integration",
-  "building toward": "products that compound in value over time",
-  "firm belief"    : "the best systems are the ones nobody notices"
-}
-```
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-📬 `your-email@example.com` &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 💼 What Defines My Work
+
+<div align="center">
+
+| 🎯 Principle | 💬 What it means |
+|---|---|
+| **Readable > Clever** | Code is read 10× more than it's written |
+| **APIs as contracts** | Simple to consume, hard to misuse |
+| **Databases deserve respect** | Schema design that survives the roadmap |
+| **Interfaces earn trust** | Speed and clarity aren't features — they're the baseline |
+| **Ship, then improve** | Iteration beats waiting for perfect |
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
 <br/>
 
-<sub>*The real work isn't writing the code. It's knowing what code not to write.*</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B6B,FFE66D,4ECDC4,45B7D1&height=100&section=footer" width="100%"/>
 
-</div>Design for scalability.
-Optimize for performance.
-Build with purpose.
-
-────────────────────────────────────
-
-"Great software is built through thoughtful engineering, continuous learning, and attention to detail."
+</div>
